@@ -1,2 +1,2 @@
-# DevOpsProject
+# DevOps Lab
 Maven DevOps Project
